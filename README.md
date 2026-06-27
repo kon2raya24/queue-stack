@@ -19,3 +19,11 @@ npm install queue-stack
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'queue-stack';
+// See API section for available functions
+```
